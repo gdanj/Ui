@@ -1,0 +1,16 @@
+.navbar{
+	background-color: rgba(113,47,121,0.2);
+	border: 1px blue dotted;
+	outline: none;
+	color: #fff;
+	display: flex;
+	justify-content: space-between;
+ 	align-items: center;
+ 	position: fixed;
+ 	width: 100%
+}
+
+.navbar-right {
+	display: flex;
+	justify-content: flex-end;
+}
